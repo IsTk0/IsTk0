@@ -1,4 +1,4 @@
-🧐 who are they?
+🧐 who I am?
    I'm IsTk0, I'm a developer of Python, C ++, Front End, Swift and much more. I have a high level of knowledge 🇮🇹, 🇬🇧, 🇪🇸
    
 📚 where and what do I study?
