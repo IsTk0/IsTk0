@@ -17,5 +17,9 @@
 
 ## All my skills 😎:
 - I am a developer of Python, C / C ++, Html, CSS, JavaScript, SQL, Swift, Bash and java. I have a lot of mastery in using the languages written above
+- I have excellent skills in the development or creation of wireless systems (I have many notions of telecommunications)
 - As IDE I use Visual Studio / VS Code with Tabnine for all languages!
 - I have very good team working skills (as you can see in my repositories)
+
+## Active projects 🧪:
+-Right now I am participating in various projects either of mine (as founder) or as a developer. Among these we find all the Aronky projects that I am developing with DFM Aronky-AirCraft-Division or Aronky-Military project (of which you can find source code in my repositories)
