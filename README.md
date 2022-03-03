@@ -16,7 +16,7 @@
 - I am not currently developing any 'serious' projects. But my future will be and is full of great projects!
 
 ## All my skills 😎:
-- I am a developer of Python, C / C ++, Html, CSS, JavaScript, SQL, Swift, Bash and java. I have a lot of mastery in using the languages written above
+- I am a developer of Python, C / C ++, Rust, Html, CSS, JavaScript, SQL, Swift, Bash and java. I have a lot of mastery in using the languages written above
 - I have excellent skills in the development or creation of wireless systems (I have many notions of telecommunications)
 - As IDE I use Visual Studio / VS Code with Tabnine for all languages!
 - I have very good team working skills (as you can see in my repositories)
