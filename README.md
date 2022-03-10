@@ -4,16 +4,16 @@
 - I'm IsTk0, I'm a developer of ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) and much more. I have a high level of knowledge 🇮🇹, 🇬🇧, 🇪🇸
 
 ### Where and what do I study? 📚
-- At this moment I am attending the second school year and I attend an IT and telecommunications address
+- At this moment I am attending the second school year and I attend an IT and telecommunications address📡
 
 ### Where I work? 🚀
-- Right now I'm working as an (internal) developer for Aronky! But I don't just do this.
+- Right now I'm working as an (internal) developer for Aronky! But I don't just do this.😉
 
 ### What are you doing now? 🧑🏻‍💻
-- Right now I'm deepening ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) for school reasons, but nobody forbids me to deepen or learn a new language!
+- Right now I'm deepening ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) for school reasons, but nobody forbids me to deepen or learn a new language! ⌨️
 
 ### Future and ongoing projects? 💻
-- I am not currently developing any 'serious' projects. But my future will be and is full of great projects!
+- I am not currently developing any 'serious' projects. But my future will be and is full of great projects!👀
 
 ## All my skills 😎:
 - I am a developer of: ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
