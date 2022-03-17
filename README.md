@@ -10,7 +10,7 @@
 - Right now I'm working as an (internal) developer for [AronkyDev](github.com/aronkydev)! But I don't just do this. 😉
 
 ### What are you doing now? 🧑🏻‍💻
-- Right now I'm mastering ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) for school reasons, however, I can study a new language or learn more about the ones I know! ⌨️
+- Right now I'm mastering Python and C++ for school reasons, however, I can study a new language or learn more about the ones I know! ⌨️
 
 ### Future and ongoing projects? 💻
 - I am not currently developing any 'serious' projects. But in the future I have plans to do a lot of big projects! 👀
