@@ -25,5 +25,5 @@
 - 
 <details>
 <summary>IsTk0 Github stast</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=dark)](https://github.com/IsTk0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=dark)(https://github.com/IsTk0)
 </details>
