@@ -24,5 +24,5 @@
 - These below are the languages i use the most👀
 <details>
 <summary>IsTk0 Github stast</summary>
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=dark)][(https://github.com/IsTk0)
+![(https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=dark)](https://github.com/IsTk0)
 </details>
