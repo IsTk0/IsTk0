@@ -23,4 +23,4 @@
 - I have very good team working skills (as you can see in my repositories)
 - These below are the languages i use the most👀
 ## My GutHub skills 📊:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=radical)](https://github.com/IsTk0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=dark)](https://github.com/IsTk0)
