@@ -22,5 +22,5 @@
 - As IDE I use ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=) on ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) with Tabnine for all languages!
 - I have very good team working skills (as you can see in my repositories)
 - These below are the languages i use the most👀
-## My GutHub skills 📊:
+## My GitHub skills 📊:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsTk0&layout=compact&theme=dark)](https://github.com/IsTk0)
