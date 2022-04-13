@@ -1,6 +1,7 @@
 ## Hi there! I am IsTk0 😄
 
-### Who am I? 🧐
+### About me 🧐:
+- ###  Finalist in the [Italian Robotics Olympics](https://www.olimpiadirobotica.it/) (Together with [IsTk0](https://github.com/IsTk0)) 
 - I'm IsTk0, a developer of ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) and much more. I have some good skills in these languages. 
 
 ### Where and what do I study? 📚
