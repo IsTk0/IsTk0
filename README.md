@@ -8,6 +8,7 @@
 
 ### What projects am I working on? 🚀
 - Right now I'm working as an (internal) developer for [AronkyDev](github.com/aronkydev)! But I don't just do this. 😉
+- I'm also working on a robotics school project that my team is a finalist for 🥳
 
 ### What are you doing now? 🧑🏻‍💻
 - Right now I'm mastering Python and C++ for school reasons, however, I can study a new language or learn more about the ones I know! ⌨️
