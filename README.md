@@ -8,7 +8,7 @@
 - Right now I'm studying in a computer science class and I'm in the second year of the five-year course. 📡
 
 ### What projects am I working on? 🚀
-- Right now I'm working as an (internal) developer for [AronkyDev](github.com/aronkydev)! But I don't just do this. 😉
+- Right now I'm working as an (internal) developer for [Aronky Technologies](github.com/aronkydev)! But I don't just do this. 😉
 - I'm also working on a robotics school project that my team is a finalist for 🥳
 
 ### What are you doing now? 🧑🏻‍💻
