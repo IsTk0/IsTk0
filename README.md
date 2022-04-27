@@ -10,6 +10,8 @@
 ### What projects am I working on? 🚀
 - Right now I'm working as an (internal) developer for [Aronky Technologies!](https://github.com/AronkyTechnologies) But I don't just do this. 😉
 - I'm also working on a robotics school project that my team is a finalist for 🥳
+- I am currently working very actively on the Cat-Net project I conceived. Pop into the repository;)
+<div width="100%" align="center"><a href="https://github.com/IsTk0/Cat-Net" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsTk0&repo=Cat-Net&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Future and ongoing projects? 💻
 - I am not currently developing any 'serious' projects. But in the future I have plans to do a lot of big projects! 👀
@@ -26,8 +28,8 @@
 <p align="left"> <a href="https://discord.com/users/IsTk0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/IsTk0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ante.dtb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ## My GitHub skills 📊:
-<a href="http://www.github.com/IsTk0"><img src="https://github-readme-stats.vercel.app/api?username=IsTk0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IsTk0's GitHub stats" /></a>
+<a href="http://www.github.com/IsTk0"><img src="https://github-readme-stats.vercel.app/api?username=IsTk0&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="IsTk0's GitHub stats" /></a>
 
-<a href="http://www.github.com/IsTk0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsTk0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/IsTk0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsTk0&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/IsTk0"><img src="https://activity-graph.herokuapp.com/graph?username=IsTk0&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/IsTk0"><img src="https://activity-graph.herokuapp.com/graph?username=IsTk0&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
