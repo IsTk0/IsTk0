@@ -11,7 +11,6 @@
 - Right now I'm working as an (internal) developer for [Aronky Technologies!](https://github.com/AronkyTechnologies) But I don't just do this. 😉
 - I'm also working on a robotics school project that my team is a finalist for 🥳
 - I am currently working very actively on the Cat-Net project I conceived. Pop into the repository;)
-<div width="100%" align="center"><a href="https://github.com/IsTk0/Cat-Net" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsTk0&repo=Cat-Net&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Future and ongoing projects? 💻
 - I am not currently developing any 'serious' projects. But in the future I have plans to do a lot of big projects! 👀
