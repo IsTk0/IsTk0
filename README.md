@@ -29,7 +29,7 @@
 - My GitHub Organization:
 <a href="https://www.github.com/AronkyTechnologies" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 
--My Instagram Account:
+- My Instagram Account:
 <a href="http://www.instagram.com/antx.dtb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 
