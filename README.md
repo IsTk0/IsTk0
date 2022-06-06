@@ -23,13 +23,13 @@
 - These below are the languages i use the most👀
 
 ## My socials 📱: 
-- __My Discord Account: 
+- __My Discord Account: __
 <a href="https://discord.com/users/IsTk0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 
-- __My GitHub Organization:
+- __My GitHub Organization:__
 <a href="https://www.github.com/AronkyTechnologies" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 
-- __My Instagram Account:
+- __My Instagram Account:__
 <a href="http://www.instagram.com/antx.dtb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 
