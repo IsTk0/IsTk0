@@ -23,7 +23,7 @@
 - These below are the languages i use the most👀
 
 ## My socials 📱: 
-- __My Discord Account: __
+- __My Discord Account:__
 <a href="https://discord.com/users/IsTk0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 
 - __My GitHub Organization:__
