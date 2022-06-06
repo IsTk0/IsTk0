@@ -22,14 +22,14 @@
 - I have very good team working skills (as you can see in my repositories)
 - These below are the languages i use the most👀
 
-### My socials 📱: 
-- My Discord Account: 
+## My socials 📱: 
+- __My Discord Account: 
 <a href="https://discord.com/users/IsTk0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 
-- My GitHub Organization:
+- __My GitHub Organization:
 <a href="https://www.github.com/AronkyTechnologies" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 
-- My Instagram Account:
+- __My Instagram Account:
 <a href="http://www.instagram.com/antx.dtb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 
