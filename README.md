@@ -1,4 +1,4 @@
-## Hi there! I am IsTk0 😄
+## Alpha Foxtrot Lima allowed to stay here 📡
 
 ### About me 🧐:
 - ### 🏆 Finalist in the [Italian Robotics Olympics](https://www.olimpiadirobotica.it/) (Together with [DFM](https://github.com/AronkyDev)) 🏆 
