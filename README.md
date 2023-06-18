@@ -1,23 +1,8 @@
-## Alpha Foxtrot Lima allowed to stay here 📡
+## Hi! I'am Antu 👋
+Hey! I am a young boy attending the **fourth year of high school** in the computer science class. I've been passionate about this **since 2019** since I was in middle school. I started by programming the Arduino. Later I learned to program in **Python (which I have mastered)**, At school I learned to program in **C++ (where again I have a high level of skill)** and to develop **Front-end sites (In fact I can write sites using HTML, CSS and the JS)**. Now to face the fourth year of the school I have already started learning **Java (although it is still at the basics, and I already have a little skill, already able to write small codes)**. Exact same situation for the **LUA, I'm learning it for personal reasons**, for a small project on StormWorks 😆
 
-### About me 🧐:
-- ### 🏆 Finalist in the [Italian Robotics Olympics](https://www.olimpiadirobotica.it/) (Together with [DFM](https://github.com/DeltaFoxtMike)) 🏆 
-- I'm IsTk0, a developer of ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) and much more. I have some good skills in these languages. 
+### My goals and my projects 🏆
+In the past I have participated in multiple national and international competitions. **In 2022**, together with my team, **we reached the final of the Italian Robotics Championships** and we are hosted by the [**IIT (Italian Institute of Technology) in Genoa**](iit.it). I also participated in **AstroPi**, an international competition organized by [**ESA (European Space Agency)**](esa.int). I also participated in minor but equally important experiences such as the **NaoChallenge**, at [**FAI (Fondo Ambiete Italiano)**](fondoambiente.it) where I programmed a small (but large and very expensive) robot capable of managing hospitality, and finally (among the thousands of experiences I have done) I programmed a robot capable of giving a presentation during the **171 anniversary of the Italian state police**. In the past I had created a small project called [**CatNet**](https://github.com/AronkyTechnologies/Cat-Net) which was simply a suite of network-tools, now I have put this open-source project aside to **focus on other things** 😁
 
-### Where and what do I study? 📚
-- Right now I'm studying in a computer science class and I'm in the second year of the five-year course. 📡
-
-### What projects am I working on? 🚀
-- Right now I'm working as an (internal) developer for [Aronky Technologies!](https://github.com/AronkyTechnologies) But I don't just do this. 😉
-- I'm also working on a robotics school project that my team is a finalist for 🥳
-- I am currently working very actively on the Cat-Net project I conceived. Pop into the repository;)
-
-### Future and ongoing projects? 💻
-- I am not currently developing any 'serious' projects. But in the future I have plans to do a lot of big projects! 👀
-
-## All my skills 😎:
-- I am a developer of: <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> </p>
-- I have excellent skills in the development or creation of wireless systems
-- As IDE I use ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=) on ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) with Tabnine for all languages!
-- I have very good team working skills (as you can see in my repositories)
-- These below are the languages i use the most👀
+##For the future? 🔮
+Uh. **No one knows what the future holds for the rest of us**. But I will definitely continue my studies in information technology and increase all my skills. **Only time will tell us what I will do** 😹
