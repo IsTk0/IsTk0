@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antu
+# 👋 Yo, I'm イセコ
 
 💻 Young developer passionate about building clean, efficient and modern software.  
 🎓 Currently studying computer science and improving my skills every day.
